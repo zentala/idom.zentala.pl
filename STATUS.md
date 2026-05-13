@@ -196,13 +196,26 @@ PHASE 2: REFACTOR (feature/content-audit branch) 📋 PLANNED
 - **Config:** `playwright.config.js`
 - **Scripts:** `pnpm run test:smoke`
 
-**Current Results:** 6 FAIL ❌, 3 PASS ✅
-- ❌ Homepage shows English content
-- ❌ HTML lang="en" (not "pl")
-- ❌ Menu missing Polish labels
-- ✅ Navigation URLs correct
-- ✅ contentDir works
-- ✅ Blog posts load
+**Current Results (2025-12-03):** 5 FAIL ❌, 4 PASS ✅
+
+**Failed tests:**
+- ❌ Homepage title: Expected "Inteligentny Dom", got "Inteligentne Mieszkanie"
+- ❌ Latest posts section: `.latest-posts` or `.recent-posts` not found
+- ❌ HTML lang="en" (should be "pl")
+- ❌ Menu missing Polish labels (Teoria|Poradniki|Usługi)
+- ❌ Menu item "Teoria" not found
+
+**Passing tests:**
+- ✅ Homepage shows Polish content (not placeholder)
+- ✅ contentDir configuration correct
+- ✅ "Teoria" link points to correct URL
+- ✅ Menu navigation works (clickable)
+
+**Detailed Analysis:** See `RAPORT.TESTS.md` for:
+- Root cause analysis for each failing test
+- Step-by-step fix instructions for mid-level developer
+- Questions for Paweł (navbar inspection needed)
+- Quick wins (5 min) vs long-term fixes
 
 **After Migration:** Expect all 9 tests PASS ✅
 
@@ -337,6 +350,43 @@ PHASE 2: REFACTOR (feature/content-audit branch) 📋 PLANNED
 2. **site: operator:** `site:ihome.zentala.io`
 3. **Screaming Frog SEO Spider:** Free for <500 URLs
 4. **Current sitemap:** https://ihome.zentala.io/sitemap.xml
+
+### How to Connect Google Search Console to ihome.zentala.io
+
+**Step 1: Add Property**
+1. Go to https://search.google.com/search-console
+2. Click "Add property" (if not already added)
+3. Choose "URL prefix" method
+4. Enter: `https://ihome.zentala.io`
+
+**Step 2: Verify Ownership (choose ONE method):**
+
+**Option A: HTML file upload (recommended for Hugo/static sites)**
+1. Download verification file (e.g., `googleXXXXXXXX.html`)
+2. Place in `static/` folder: `static/googleXXXXXXXX.html`
+3. Commit and deploy to production
+4. Verify in GSC (file will be at `https://ihome.zentala.io/googleXXXXXXXX.html`)
+
+**Option B: HTML tag**
+1. Copy meta tag from GSC
+2. Add to `layouts/partials/head/head.html` (or base template)
+3. Commit and deploy
+4. Verify in GSC
+
+**Option C: DNS record (if you manage DNS)**
+1. Add TXT record to domain DNS
+2. Verify in GSC
+
+**Step 3: Submit Sitemap**
+1. After verification, go to "Sitemaps" in left menu
+2. Add sitemap URL: `https://ihome.zentala.io/sitemap.xml`
+3. Submit
+
+**Step 4: Wait for indexing data**
+- Initial data appears in 24-48 hours
+- Full coverage report in 3-7 days
+
+**Current Status:** NOT connected (verified 2025-10-19)
 
 ### Development
 - **Local dev server:** `pnpm run dev`

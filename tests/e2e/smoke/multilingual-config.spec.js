@@ -20,7 +20,7 @@ test.describe('Multilingual Configuration', () => {
     await page.goto('/');
 
     // Menu should have Polish labels
-    const menu = page.locator('nav.navbar');
+    const menu = page.locator('.navbar');
     await expect(menu).toContainText(/Teoria|Poradniki|Usługi/);
 
     // Should NOT have English labels (when PL is active)

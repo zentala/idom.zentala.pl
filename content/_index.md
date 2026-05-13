@@ -11,7 +11,7 @@ seo:
   canonical: ''
   description: Transformacja starego apartamentu w inteligentne mieszkanie.
   noindex: false
-  title: Inteligentne Mieszkanie
+  title: Inteligentny Dom
 title: Inteligentny Dom
 ---
 

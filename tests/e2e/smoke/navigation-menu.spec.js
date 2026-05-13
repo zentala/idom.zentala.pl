@@ -4,7 +4,7 @@ test.describe('Navigation Menu', () => {
   test('main menu has all 4 required items', async ({ page }) => {
     await page.goto('/');
 
-    const menu = page.locator('nav.navbar');
+    const menu = page.locator('.navbar');
 
     // REGRESSION: Missing menu items (Tutorials, Services)
     // Must have exactly 4 items: Teoria, Blog, Poradniki, Usługi
@@ -14,7 +14,7 @@ test.describe('Navigation Menu', () => {
     await expect(menu.locator('a:has-text("Usługi")')).toBeVisible();
 
     // Count menu items to ensure no extras/missing
-    const menuItems = menu.locator('.nav-item');
+    const menuItems = menu.locator('.navbar-nav > .nav-item');
     await expect(menuItems).toHaveCount(4);
   });
 

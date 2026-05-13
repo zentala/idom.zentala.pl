@@ -1,13 +1,11 @@
 node_modules/
-resources/*
-!resources/_gen/
-resources/_gen/*
-!resources/_gen/getresource/
+resources/
 public/
 .specstory
 .cursorindexingignore
 .hugo_build.lock
 .claude/settings.local.json
+.serena/
 
 # Playwright
 /test-results/

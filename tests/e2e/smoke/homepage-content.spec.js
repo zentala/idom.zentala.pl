@@ -6,7 +6,7 @@ test.describe('Homepage Content', () => {
 
     expect(response.status()).toBe(200);
     await expect(page).toHaveTitle(/Inteligentny Dom/);
-    await expect(page.locator('h1')).toBeVisible();
+    await expect(page.locator('h1:visible')).toBeVisible();
   });
 
   test('homepage shows Polish content (not placeholder)', async ({ page }) => {
