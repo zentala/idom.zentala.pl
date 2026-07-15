@@ -14,7 +14,7 @@ seo:
   description: Antenowe - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Antenowe | Dokumentacja - ihome.zentala.io
+  title: Antenowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Antenowe
 toc: true

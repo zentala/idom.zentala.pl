@@ -14,7 +14,7 @@ seo:
   description: Komponenty elektryczne - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Komponenty elektryczne | Dokumentacja - ihome.zentala.io
+  title: Komponenty elektryczne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Komponenty elektryczne
 toc: true

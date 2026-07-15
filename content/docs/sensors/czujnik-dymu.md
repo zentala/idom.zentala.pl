@@ -14,7 +14,7 @@ seo:
   description: Czujnik Dymu - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Czujnik Dymu | Dokumentacja - ihome.zentala.io
+  title: Czujnik Dymu | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Dymu
 toc: true

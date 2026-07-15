@@ -14,7 +14,7 @@ seo:
   description: Własny projekt łóżka - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Własny projekt łóżka | Dokumentacja - ihome.zentala.io
+  title: Własny projekt łóżka | Dokumentacja - idom.zentala.pl
 summary: ''
 tags: []
 title: Własny projekt łóżka

@@ -12,7 +12,7 @@ seo:
   description: Draft - Funritures Design - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Draft - Funritures Design | Dokumentacja - ihome.zentala.io
+  title: Draft - Funritures Design | Dokumentacja - idom.zentala.pl
 tags: []
 title: Draft - Funritures Design
 weight: 50

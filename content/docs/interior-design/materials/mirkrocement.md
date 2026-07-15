@@ -14,7 +14,7 @@ seo:
   description: Mikrocement - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Mikrocement | Dokumentacja - ihome.zentala.io
+  title: Mikrocement | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Mikrocement
 toc: true

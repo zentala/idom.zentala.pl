@@ -9,7 +9,7 @@ seo:
   description: Paweł Żentała - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Paweł Żentała | Dokumentacja - ihome.zentala.io
+  title: Paweł Żentała | Dokumentacja - idom.zentala.pl
 summary: dfd211
 title: Paweł Żentała
 ---

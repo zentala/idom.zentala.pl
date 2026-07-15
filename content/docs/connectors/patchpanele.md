@@ -14,7 +14,7 @@ seo:
   description: Optyczne - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Optyczne | Dokumentacja - ihome.zentala.io
+  title: Optyczne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Optyczne
 toc: true

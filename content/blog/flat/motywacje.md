@@ -14,12 +14,12 @@ seo:
   description: Moje motywacje do budowy inteligentnego mieszkania - kompleksowy opis
     Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Moje motywacje do budowy inteligentnego mieszkania | Dokumentacja - ihome.zentala.io
+  title: Moje motywacje do budowy inteligentnego mieszkania | Dokumentacja - idom.zentala.pl
 summary: Jak to się zaczęło? Po co i dlaczego zdecydowałem się zainwestować w mieszkanie
   IoT? Czy to dla każdego? Dla kogo nie? A może w ograniczonym zakresie? Jakim? Czego
   bym dziś nie robił, a co uważam za niezbędne.
 tags: []
-thumb: https://static.zentala.io/flat/iot-planning.jpg
+thumb: https://cdn.zentala.agency/flat/iot-planning.jpg
 title: Moje motywacje do budowy inteligentnego mieszkania
 weight: 50
 ---

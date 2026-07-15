@@ -2,7 +2,7 @@
 title: "Sterownik wymienisz, kabli w ścianie wolałbyś nie - jak mądrze zaplanować elastyczną instalację Smart Home"
 description: "Dlaczego przy budowie Smart Home struktura instalacji elektrycznej jest ważniejsza niż wybór sterownika? Sterownik można wymienić, ale kabli w ścianach już nie. Praktyczne porady jak zaprojektować instalację IoT na lata."
 summary: "Co wziąć pod uwagę przy budowie Smart Home z myślą o przyszłości? Dowiedz się dlaczego warto skupić się na strukturze kabli, oznaczeniach i zapasowych przewodach... i być gotowym na ewentualną modernizację sterownika w przyszłości."
-# thumb: "https://static.zentala.io/boneio/bone-esp32-2.jpg"
+# thumb: "https://cdn.zentala.agency/boneio/bone-esp32-2.jpg"
 date: 2024-03-14T03:50:44+02:00
 lastmod: 2024-03-14T03:50:44+02:00
 draft: false

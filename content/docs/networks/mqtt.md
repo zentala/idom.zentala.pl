@@ -14,7 +14,7 @@ seo:
   description: MQTT - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: MQTT | Dokumentacja - ihome.zentala.io
+  title: MQTT | Dokumentacja - idom.zentala.pl
 summary: ''
 title: MQTT
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Blacha Ryflowana - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Blacha Ryflowana | Dokumentacja - ihome.zentala.io
+  title: Blacha Ryflowana | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Blacha Ryflowana
 toc: true

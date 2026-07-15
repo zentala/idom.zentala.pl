@@ -14,7 +14,7 @@ seo:
   description: Rolet wewn. i zewn. - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Rolet wewn. i zewn. | Dokumentacja - ihome.zentala.io
+  title: Rolet wewn. i zewn. | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Rolet wewn. i zewn.
 toc: true

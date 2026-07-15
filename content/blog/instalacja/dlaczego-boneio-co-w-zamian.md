@@ -2,7 +2,7 @@
 title: "Moja historia BoneIO - wady i zalety polskiego sterownika Smart Home"
 description: "Dlaczego wybrałem BoneIO, problemy które napotkałem, dlaczego planuję zakup  test chińskiej alternatywy."
 summary: "Osobiste doświadczenia z instalacją BoneIO - problemy, które napotkałem, lokalne wsparcie i dlaczego planuję test chińskiej alternatywy."
-thumb: "https://static.zentala.io/boneio/bone-esp32-2.jpg"
+thumb: "https://cdn.zentala.agency/boneio/bone-esp32-2.jpg"
 date: 2023-09-07T16:27:22+02:00
 lastmod: 2025-01-09T12:00:00+02:00
 draft: false

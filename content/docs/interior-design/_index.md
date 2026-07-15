@@ -14,7 +14,7 @@ seo:
   description: Interioer Design - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Interioer Design | Dokumentacja - ihome.zentala.io
+  title: Interioer Design | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Interioer Design
 toc: true

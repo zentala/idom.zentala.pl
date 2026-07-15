@@ -14,11 +14,11 @@ seo:
   description: Kryteria wyboru lokalizacji w Warszawie - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Kryteria wyboru lokalizacji w Warszawie | Dokumentacja - ihome.zentala.io
+  title: Kryteria wyboru lokalizacji w Warszawie | Dokumentacja - idom.zentala.pl
 summary: Stoisz przed wyborem mieszkania do zakupu i chciałbyś poszerzyć swoją perspektę?
   Poznaj kryteria którymi sam się kierowałem i jak oceniam swoje decyzje po 2 latach.
 tags: []
-thumb: http://static.zentala.io/flat/lokalizacja.png
+thumb: http://cdn.zentala.agency/flat/lokalizacja.png
 title: Kryteria wyboru lokalizacji w Warszawie
 weight: 50
 ---

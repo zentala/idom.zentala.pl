@@ -13,7 +13,7 @@ seo:
   description: Klimatyzacja - wybór urządzeń - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Klimatyzacja - wybór urządzeń | Dokumentacja - ihome.zentala.io
+  title: Klimatyzacja - wybór urządzeń | Dokumentacja - idom.zentala.pl
 summary: Notatki dotyczące wyboru klimatyzacji do mieszkania
 tags: []
 title: Klimatyzacja - wybór urządzeń

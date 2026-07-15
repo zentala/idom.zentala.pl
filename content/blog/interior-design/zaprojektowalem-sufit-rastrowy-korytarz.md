@@ -15,14 +15,14 @@ seo:
   description: Zaprojektowalem sufit rastrowy w korytarzu aby upchnąć wszystkie kable
     - kompleksowy opis Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Zaprojektowalem sufit rastrowy w korytarzu aby ... | Dokumentacja - ihome.zentala.io
+  title: Zaprojektowalem sufit rastrowy w korytarzu aby ... | Dokumentacja - idom.zentala.pl
 summary: Jak ukryć ogromną ilość kabli biegnących do rozdzielnicy, zarazem nie tracąc
   mozliwosc modyfikacji czy rozbudowy instalacji inteligentnego domu? Ja zdecydowałem
   się zamaskować główną magistralę komunikacyjną, gdzie zbiegają się ze sobą wszystkie
   przewody, tak zwanym sufitem otwartym, ukrywając je za ażurową, listwową konstrukcją.
 tags:
 - Wnętrza i Meble
-thumb: https://static.zentala.io/flat/raster.png
+thumb: https://cdn.zentala.agency/flat/raster.png
 title: Zaprojektowalem sufit rastrowy w korytarzu aby upchnąć wszystkie kable
 weight: 50
 ---

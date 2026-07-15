@@ -14,7 +14,7 @@ seo:
   description: Beton - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Beton | Dokumentacja - ihome.zentala.io
+  title: Beton | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Beton
 toc: true

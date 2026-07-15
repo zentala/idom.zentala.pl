@@ -14,7 +14,7 @@ seo:
   description: Szklo mleczne - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Szklo mleczne | Dokumentacja - ihome.zentala.io
+  title: Szklo mleczne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Szklo mleczne
 toc: true

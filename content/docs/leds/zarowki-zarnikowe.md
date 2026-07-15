@@ -14,7 +14,7 @@ seo:
   description: Żarówki żarnikowe - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Żarówki żarnikowe | Dokumentacja - ihome.zentala.io
+  title: Żarówki żarnikowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Żarówki żarnikowe
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Wposażenie Home Office które `wrzucisz w firmowe koszty` - kompleksowy
     opis Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Wposażenie Home Office które `wrzucisz w firmow... | Dokumentacja - ihome.zentala.io
+  title: Wposażenie Home Office które `wrzucisz w firmow... | Dokumentacja - idom.zentala.pl
 summary: 'Jest kilka takich rzeczy, które jako programista lub innego rodzaju pracownik
   zdalny, warto kupić `na firmę`. Jeśli zastanwiasz się co wrzucić w koszty lub na
   co wydać budżet na urządzenie domowego biura - mam dla Ciebie kilka pomysłów. Zapraszam. '

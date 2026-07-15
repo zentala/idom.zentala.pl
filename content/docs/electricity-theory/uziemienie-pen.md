@@ -14,7 +14,7 @@ seo:
   description: Uziemienie i Podział PEN - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Uziemienie i Podział PEN | Dokumentacja - ihome.zentala.io
+  title: Uziemienie i Podział PEN | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Uziemienie i Podział PEN
 toc: true

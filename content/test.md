@@ -11,7 +11,7 @@ seo:
   description: test - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: test | Dokumentacja - ihome.zentala.io
+  title: test | Dokumentacja - idom.zentala.pl
 title: test
 type: test
 ---

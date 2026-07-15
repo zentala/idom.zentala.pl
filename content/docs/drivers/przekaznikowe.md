@@ -14,7 +14,7 @@ seo:
   description: Przekaznikowe - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Przekaznikowe | Dokumentacja - ihome.zentala.io
+  title: Przekaznikowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Przekaznikowe
 toc: true

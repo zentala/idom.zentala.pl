@@ -14,7 +14,7 @@ seo:
   description: Systemy - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Systemy | Dokumentacja - ihome.zentala.io
+  title: Systemy | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Systemy
 toc: true

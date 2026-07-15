@@ -13,7 +13,7 @@ seo:
   description: mikroSerwerownia w mieszkaniu - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: mikroSerwerownia w mieszkaniu | Dokumentacja - ihome.zentala.io
+  title: mikroSerwerownia w mieszkaniu | Dokumentacja - idom.zentala.pl
 summary: Gdzie upchać nagłośnienie strefowe, serwery i UPS.
 tags: []
 title: mikroSerwerownia w mieszkaniu

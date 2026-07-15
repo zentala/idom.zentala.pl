@@ -14,7 +14,7 @@ seo:
   description: Z-Wave - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Z-Wave | Dokumentacja - ihome.zentala.io
+  title: Z-Wave | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Z-Wave
 toc: true

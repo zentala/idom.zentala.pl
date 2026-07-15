@@ -14,7 +14,7 @@ seo:
   description: Czujnik Ciśnienia - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujnik Ciśnienia | Dokumentacja - ihome.zentala.io
+  title: Czujnik Ciśnienia | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Ciśnienia
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Czujnik Gazu - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Czujnik Gazu | Dokumentacja - ihome.zentala.io
+  title: Czujnik Gazu | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Gazu
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Pomiary rezystancji - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Pomiary rezystancji | Dokumentacja - ihome.zentala.io
+  title: Pomiary rezystancji | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Pomiary rezystancji
 toc: true

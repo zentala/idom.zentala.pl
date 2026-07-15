@@ -14,7 +14,7 @@ seo:
   description: Czujnik Temperatury - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujnik Temperatury | Dokumentacja - ihome.zentala.io
+  title: Czujnik Temperatury | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Temperatury
 toc: true

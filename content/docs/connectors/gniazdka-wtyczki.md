@@ -14,7 +14,7 @@ seo:
   description: Grniazdka-wtyczki - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Grniazdka-wtyczki | Dokumentacja - ihome.zentala.io
+  title: Grniazdka-wtyczki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Grniazdka-wtyczki
 toc: true

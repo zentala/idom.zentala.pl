@@ -14,7 +14,7 @@ seo:
   description: KeyPad - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: KeyPad | Dokumentacja - ihome.zentala.io
+  title: KeyPad | Dokumentacja - idom.zentala.pl
 summary: ''
 title: KeyPad
 toc: true

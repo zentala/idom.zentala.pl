@@ -14,7 +14,7 @@ seo:
   description: Automatyka Budynkowa - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Automatyka Budynkowa | Dokumentacja - ihome.zentala.io
+  title: Automatyka Budynkowa | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Automatyka Budynkowa
 toc: true

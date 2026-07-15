@@ -14,7 +14,7 @@ seo:
   description: Sterowniki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Sterowniki | Dokumentacja - ihome.zentala.io
+  title: Sterowniki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sterowniki
 toc: true

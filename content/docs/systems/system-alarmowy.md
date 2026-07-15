@@ -14,7 +14,7 @@ seo:
   description: System Alarmowy - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: System Alarmowy | Dokumentacja - ihome.zentala.io
+  title: System Alarmowy | Dokumentacja - idom.zentala.pl
 summary: ''
 title: System Alarmowy
 toc: true

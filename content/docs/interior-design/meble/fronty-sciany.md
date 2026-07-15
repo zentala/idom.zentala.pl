@@ -14,7 +14,7 @@ seo:
   description: Fronty mebli - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Fronty mebli | Dokumentacja - ihome.zentala.io
+  title: Fronty mebli | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Fronty mebli
 toc: true

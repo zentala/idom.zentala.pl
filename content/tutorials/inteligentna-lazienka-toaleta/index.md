@@ -13,7 +13,7 @@ seo:
   description: Inteligentna łazienka i toaleta - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Inteligentna łazienka i toaleta | Dokumentacja - ihome.zentala.io
+  title: Inteligentna łazienka i toaleta | Dokumentacja - idom.zentala.pl
 summary: Jak je zaprojektować? Co mogą i powinny zawierać?
 tags: []
 title: Inteligentna łazienka i toaleta

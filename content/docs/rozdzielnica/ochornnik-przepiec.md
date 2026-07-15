@@ -14,7 +14,7 @@ seo:
   description: Ogranicznik Przepięć - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Ogranicznik Przepięć | Dokumentacja - ihome.zentala.io
+  title: Ogranicznik Przepięć | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Ogranicznik Przepięć
 toc: true

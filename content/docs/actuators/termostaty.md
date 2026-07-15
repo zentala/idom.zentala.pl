@@ -14,7 +14,7 @@ seo:
   description: Termostaty - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Termostaty | Dokumentacja - ihome.zentala.io
+  title: Termostaty | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Termostaty
 toc: true

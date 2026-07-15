@@ -13,7 +13,7 @@ seo:
   description: Sterownicze - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Sterownicze | Dokumentacja - ihome.zentala.io
+  title: Sterownicze | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sterownicze
 toc: true

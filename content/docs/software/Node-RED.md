@@ -14,7 +14,7 @@ seo:
   description: Node-RED - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Node-RED | Dokumentacja - ihome.zentala.io
+  title: Node-RED | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Node-RED
 toc: true

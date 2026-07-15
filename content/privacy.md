@@ -10,7 +10,7 @@ seo:
   description: Polityka Prywatności - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Polityka Prywatności | Dokumentacja - ihome.zentala.io
+  title: Polityka Prywatności | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Polityka Prywatności
 type: legal

@@ -14,7 +14,7 @@ seo:
   description: Roboty Sprzątające - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Roboty Sprzątające | Dokumentacja - ihome.zentala.io
+  title: Roboty Sprzątające | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Roboty Sprzątające
 toc: true

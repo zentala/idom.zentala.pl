@@ -14,7 +14,7 @@ seo:
   description: Sygnałowe - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Sygnałowe | Dokumentacja - ihome.zentala.io
+  title: Sygnałowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sygnałowe
 toc: true

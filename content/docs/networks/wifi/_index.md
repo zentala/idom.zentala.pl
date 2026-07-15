@@ -14,7 +14,7 @@ seo:
   description: WiFi - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: WiFi | Dokumentacja - ihome.zentala.io
+  title: WiFi | Dokumentacja - idom.zentala.pl
 summary: ''
 title: WiFi
 toc: true

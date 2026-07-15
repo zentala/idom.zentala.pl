@@ -10,7 +10,7 @@ seo:
   canonical: ''
   description: Kompleksowy przewodnik po wyborze platformy automatyki domowej. Porównanie Home Assistant, openHAB, Domoticz i ioBroker - dla kogo, zalety, wady.
   noindex: false
-  title: Jak wybrać platformę automatyki domowej? | Tutorial - ihome.zentala.io
+  title: Jak wybrać platformę automatyki domowej? | Tutorial - idom.zentala.pl
 summary: 'Kompleksowy przewodnik porównawczy platform automatyki domowej. Pomogę Ci wybrać między Home Assistant, openHAB, Domoticz i ioBroker na podstawie Twoich potrzeb i doświadczenia.'
 title: Jak wybrać platformę automatyki domowej?
 toc: true

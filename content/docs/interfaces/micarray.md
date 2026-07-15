@@ -14,7 +14,7 @@ seo:
   description: MicArray - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: MicArray | Dokumentacja - ihome.zentala.io
+  title: MicArray | Dokumentacja - idom.zentala.pl
 summary: ''
 title: MicArray
 toc: true

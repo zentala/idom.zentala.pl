@@ -14,7 +14,7 @@ seo:
   description: RCBO - Zabezpiecznie Różnicowo Prądowe z Członem Nadprądowym - kompleksowy
     opis Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: RCBO - Zabezpiecznie Różnicowo Prądowe z Człone... | Dokumentacja - ihome.zentala.io
+  title: RCBO - Zabezpiecznie Różnicowo Prądowe z Człone... | Dokumentacja - idom.zentala.pl
 summary: ''
 title: RCBO - Zabezpiecznie Różnicowo Prądowe z Członem Nadprądowym
 toc: true

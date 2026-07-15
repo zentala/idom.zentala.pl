@@ -14,7 +14,7 @@ seo:
   description: Światłowody - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Światłowody | Dokumentacja - ihome.zentala.io
+  title: Światłowody | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Światłowody
 toc: true

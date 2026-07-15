@@ -14,7 +14,7 @@ seo:
   canonical: ''
   description: ioBroker - modułowa platforma automatyki domowej w Node.js z systemem adapterów i silną społecznością niemiecką.
   noindex: false
-  title: ioBroker | Dokumentacja - ihome.zentala.io
+  title: ioBroker | Dokumentacja - idom.zentala.pl
 summary: 'Modułowa platforma automatyki domowej oparta na Node.js z systemem adapterów. Popularna w Niemczech, z doskonałą wizualizacją i obsługą IoT.'
 title: ioBroker
 toc: true

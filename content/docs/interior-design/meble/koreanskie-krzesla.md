@@ -14,7 +14,7 @@ seo:
   description: Koreanskie Krzesla - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Koreanskie Krzesla | Dokumentacja - ihome.zentala.io
+  title: Koreanskie Krzesla | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Koreanskie Krzesla
 toc: true

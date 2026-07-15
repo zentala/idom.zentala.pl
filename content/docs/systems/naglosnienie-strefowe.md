@@ -14,7 +14,7 @@ seo:
   description: Naglosnienie strefowe - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Naglosnienie strefowe | Dokumentacja - ihome.zentala.io
+  title: Naglosnienie strefowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Naglosnienie strefowe
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Rozłącznik instalacyjny - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Rozłącznik instalacyjny | Dokumentacja - ihome.zentala.io
+  title: Rozłącznik instalacyjny | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Rozłącznik instalacyjny
 toc: true

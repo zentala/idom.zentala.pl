@@ -14,7 +14,7 @@ seo:
   description: RPi0 - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: RPi0 | Dokumentacja - ihome.zentala.io
+  title: RPi0 | Dokumentacja - idom.zentala.pl
 summary: ''
 title: RPi0
 toc: true

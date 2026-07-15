@@ -14,7 +14,7 @@ seo:
   description: '[UPS] Zasilanie Awaryjne - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.'
   noindex: false
-  title: '[UPS] Zasilanie Awaryjne | Dokumentacja - ihome.zentala.io'
+  title: '[UPS] Zasilanie Awaryjne | Dokumentacja - idom.zentala.pl'
 summary: ''
 title: '[UPS] Zasilanie Awaryjne'
 toc: true

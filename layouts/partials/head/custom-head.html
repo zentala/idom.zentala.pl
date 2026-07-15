@@ -4,6 +4,33 @@
 <!-- TODO move it to node deps -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
+{{/*
+  KaTeX — typesets math in the browser, loaded only on pages that actually
+  contain math so the rest of the blog does not pay for it. Served from /katex/
+  (mounted from node_modules in config/_default/module.toml), deliberately not
+  from a CDN. The theme's stock shortcodes fetched pre-rendered images from
+  math.vercel.app during `hugo build`; when that free API began returning HTTP
+  429 the entire build failed, so math now depends on nothing at build time.
+*/}}
+{{- if strings.Contains .Content `class="math` }}
+  <link rel="stylesheet" href="{{ "katex/katex.min.css" | relURL }}">
+  <script defer src="{{ "katex/katex.min.js" | relURL }}"></script>
+  <script defer src="{{ "katex/contrib/auto-render.min.js" | relURL }}"></script>
+  {{/* auto-render does not self-initialize. Deferred scripts run in order and
+       finish before DOMContentLoaded, so renderMathInElement is ready here. */}}
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      renderMathInElement(document.body, {
+        delimiters: [
+          { left: "\\[", right: "\\]", display: true },
+          { left: "\\(", right: "\\)", display: false }
+        ],
+        throwOnError: false
+      });
+    });
+  </script>
+{{- end }}
+
 <!--
   Favicons (light/dark) generated from SVG via scripts/generate-icons.mjs
   - We avoid SVG favicons to bypass tools that only accept raster (png/webp)

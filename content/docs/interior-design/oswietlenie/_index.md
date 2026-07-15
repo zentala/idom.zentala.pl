@@ -14,7 +14,7 @@ seo:
   description: Materiały - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Materiały | Dokumentacja - ihome.zentala.io
+  title: Materiały | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Materiały
 toc: true

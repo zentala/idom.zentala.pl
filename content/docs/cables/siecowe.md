@@ -14,7 +14,7 @@ seo:
   description: Sieciowe - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Sieciowe | Dokumentacja - ihome.zentala.io
+  title: Sieciowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sieciowe
 toc: true

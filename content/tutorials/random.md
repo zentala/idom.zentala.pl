@@ -12,7 +12,7 @@ seo:
   description: random notes - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: random notes | Dokumentacja - ihome.zentala.io
+  title: random notes | Dokumentacja - idom.zentala.pl
 summary: Zwiększenie mocy i fazowosci, przebudowa instalacji pod wspolczene potrzeby.
   Zuzywamy coraz wicej energii elektrycznej. Linia zasilająca do mieszkania z rynku
   wtórnego może nie zapewnić Ci dość mocy jeśli zamierzasz przejść na indukcję czy

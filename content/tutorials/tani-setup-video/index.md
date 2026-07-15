@@ -13,10 +13,10 @@ seo:
   description: Tani setup do nagrywania video - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Tani setup do nagrywania video | Dokumentacja - ihome.zentala.io
+  title: Tani setup do nagrywania video | Dokumentacja - idom.zentala.pl
 summary: ''
 tags: []
-thumb: https://static.zentala.io/remote-videos/hardware.jpg
+thumb: https://cdn.zentala.agency/remote-videos/hardware.jpg
 title: Tani setup do nagrywania video
 weight: 50
 ---

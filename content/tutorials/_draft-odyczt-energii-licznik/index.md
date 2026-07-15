@@ -13,7 +13,7 @@ seo:
   description: Odczyt energii z licznika prądu - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Odczyt energii z licznika prądu | Dokumentacja - ihome.zentala.io
+  title: Odczyt energii z licznika prądu | Dokumentacja - idom.zentala.pl
 summary: Jak odczywatać zużycie prądu bezpośrednio z licznika?
 tags: []
 title: Odczyt energii z licznika prądu

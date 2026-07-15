@@ -14,7 +14,7 @@ seo:
   description: Materiały eksploatacyjne - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Materiały eksploatacyjne | Dokumentacja - ihome.zentala.io
+  title: Materiały eksploatacyjne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Materiały eksploatacyjne
 toc: true

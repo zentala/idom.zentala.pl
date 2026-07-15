@@ -14,7 +14,7 @@ seo:
   description: Własny projekt szafy - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Własny projekt szafy | Dokumentacja - ihome.zentala.io
+  title: Własny projekt szafy | Dokumentacja - idom.zentala.pl
 summary: ''
 tags: []
 title: Własny projekt szafy

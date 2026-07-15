@@ -13,7 +13,7 @@ seo:
   description: Poradniki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Poradniki | Dokumentacja - ihome.zentala.io
+  title: Poradniki | Dokumentacja - idom.zentala.pl
 summary: Artykuły z poradami i instruktarzami, napisane z myślą o Tobie, Twoich potrzebach
   i Twoim inteligentnym domu. Wprowadzenia dla  planujących i samodzielnie wykonująch
   Smart Home.

@@ -14,7 +14,7 @@ seo:
   description: Software - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Software | Dokumentacja - ihome.zentala.io
+  title: Software | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Software
 toc: true

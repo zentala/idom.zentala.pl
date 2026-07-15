@@ -14,7 +14,7 @@ seo:
   description: Radar - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Radar | Dokumentacja - ihome.zentala.io
+  title: Radar | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Radar
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Szklo dymione - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Szklo dymione | Dokumentacja - ihome.zentala.io
+  title: Szklo dymione | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Szklo dymione
 toc: true

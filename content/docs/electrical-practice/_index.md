@@ -14,7 +14,7 @@ seo:
   description: Praktyka Elektryczna - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Praktyka Elektryczna | Dokumentacja - ihome.zentala.io
+  title: Praktyka Elektryczna | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Praktyka Elektryczna
 toc: true

@@ -13,7 +13,7 @@ seo:
   description: Smart Home w wersji minimum - kompleksowy opis Więcej informacji na
     inteligentny dom znajdziesz w naszym serwisie.
   noindex: false
-  title: Smart Home w wersji minimum | Dokumentacja - ihome.zentala.io
+  title: Smart Home w wersji minimum | Dokumentacja - idom.zentala.pl
 summary: Co zaimplementowałbym nawet w mieszkaniu na wynajem.
 tags: []
 title: Smart Home w wersji minimum

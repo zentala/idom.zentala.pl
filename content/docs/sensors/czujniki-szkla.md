@@ -14,7 +14,7 @@ seo:
   description: Czujnik Szkła - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Czujnik Szkła | Dokumentacja - ihome.zentala.io
+  title: Czujnik Szkła | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Szkła
 toc: true

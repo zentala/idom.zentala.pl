@@ -14,7 +14,7 @@ seo:
   description: Zasieg - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zasieg | Dokumentacja - ihome.zentala.io
+  title: Zasieg | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zasieg
 toc: true

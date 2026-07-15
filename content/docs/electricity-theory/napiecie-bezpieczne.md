@@ -14,7 +14,7 @@ seo:
   description: Napięcie bezpieczne - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Napięcie bezpieczne | Dokumentacja - ihome.zentala.io
+  title: Napięcie bezpieczne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Napięcie bezpieczne
 toc: true

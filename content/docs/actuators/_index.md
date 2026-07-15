@@ -14,7 +14,7 @@ seo:
   description: Aktuatory - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Aktuatory | Dokumentacja - ihome.zentala.io
+  title: Aktuatory | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Aktuatory
 toc: true

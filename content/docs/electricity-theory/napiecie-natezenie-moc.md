@@ -14,7 +14,7 @@ seo:
   description: Napięcie, natężenie i moc - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Napięcie, natężenie i moc | Dokumentacja - ihome.zentala.io
+  title: Napięcie, natężenie i moc | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Napięcie, natężenie i moc
 toc: true

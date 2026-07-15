@@ -14,7 +14,7 @@ seo:
   canonical: ''
   description: Home Assistant - najpopularniejsza platforma automatyki domowej z Python. Łatwa konfiguracja, ogromna społeczność i tysiące integracji.
   noindex: false
-  title: Home Assistant | Dokumentacja - ihome.zentala.io
+  title: Home Assistant | Dokumentacja - idom.zentala.pl
 summary: 'Najpopularniejsza otwartoźródłowa platforma automatyki domowej oparta na Python. Łatwa konfiguracja przez GUI, ogromna społeczność i ponad 2000 gotowych integracji.'
 title: Home Assistant
 toc: true

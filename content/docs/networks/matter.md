@@ -14,7 +14,7 @@ seo:
   description: Matter - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Matter | Dokumentacja - ihome.zentala.io
+  title: Matter | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Matter
 toc: true

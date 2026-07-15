@@ -14,7 +14,7 @@ seo:
   description: Rolety - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Rolety | Dokumentacja - ihome.zentala.io
+  title: Rolety | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Rolety
 toc: true

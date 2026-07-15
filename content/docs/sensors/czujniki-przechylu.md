@@ -14,7 +14,7 @@ seo:
   description: Czujniki Przechyłu - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujniki Przechyłu | Dokumentacja - ihome.zentala.io
+  title: Czujniki Przechyłu | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujniki Przechyłu
 toc: true

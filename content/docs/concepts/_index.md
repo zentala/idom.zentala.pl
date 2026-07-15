@@ -14,7 +14,7 @@ seo:
   description: Pojęcia - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Pojęcia | Dokumentacja - ihome.zentala.io
+  title: Pojęcia | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Pojęcia
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Czujnik Wilgotności - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujnik Wilgotności | Dokumentacja - ihome.zentala.io
+  title: Czujnik Wilgotności | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Wilgotności
 toc: true

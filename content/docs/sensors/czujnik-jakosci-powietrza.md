@@ -14,7 +14,7 @@ seo:
   description: Czujnik Jakości Powietrza - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujnik Jakości Powietrza | Dokumentacja - ihome.zentala.io
+  title: Czujnik Jakości Powietrza | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Jakości Powietrza
 toc: true

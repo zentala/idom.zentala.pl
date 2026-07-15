@@ -13,7 +13,7 @@ seo:
   description: Oznaczanie drukarką etykiet - kompleksowy opis Więcej informacji na
     smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Oznaczanie drukarką etykiet | Dokumentacja - ihome.zentala.io
+  title: Oznaczanie drukarką etykiet | Dokumentacja - idom.zentala.pl
 summary: Jak i czym oznaczyć przewody i moduły w rodzielncy.
 tags: []
 title: Oznaczanie drukarką etykiet

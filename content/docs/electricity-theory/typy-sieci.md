@@ -14,7 +14,7 @@ seo:
   description: Typy układów sieci enegetycznych - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Typy układów sieci enegetycznych | Dokumentacja - ihome.zentala.io
+  title: Typy układów sieci enegetycznych | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Typy układów sieci enegetycznych
 toc: true

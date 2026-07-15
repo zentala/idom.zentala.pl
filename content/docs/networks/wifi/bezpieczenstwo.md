@@ -14,7 +14,7 @@ seo:
   description: Bezpieczenstwo - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Bezpieczenstwo | Dokumentacja - ihome.zentala.io
+  title: Bezpieczenstwo | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Bezpieczenstwo
 toc: true

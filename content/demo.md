@@ -11,7 +11,7 @@ seo:
   description: Markdown demo - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Markdown demo | Dokumentacja - ihome.zentala.io
+  title: Markdown demo | Dokumentacja - idom.zentala.pl
 title: Markdown demo
 ---
 
@@ -287,20 +287,20 @@ Read more on [Hays Images](https://images.gethyas.com/).
 
 [ShortCode Reference](https://images.gethyas.com/docs/reference/shortcodes/img/)
 
-{{< img process="fill 2100x900" lqip="21x webp q20" loading="eager" fetchpriority="high" src="https://static.zentala.io/flat/5.jpg" alt="A white bird flying over a lush green field" >}}
+{{< img process="fill 2100x900" lqip="21x webp q20" loading="eager" fetchpriority="high" src="https://cdn.zentala.agency/flat/5.jpg" alt="A white bird flying over a lush green field" >}}
 
 ### Picture
 
 [ShortCode Reference](https://images.gethyas.com/docs/reference/shortcodes/picture/)
 
-{{< picture src="https://static.zentala.io/flat/16.jpg" alt="A bird flying through a field of tall grass" >}}
+{{< picture src="https://cdn.zentala.agency/flat/16.jpg" alt="A bird flying through a field of tall grass" >}}
 
 ### Figure
 
 [ShortCode Reference](https://images.gethyas.com/docs/reference/shortcodes/figure/)
 
 {{< figure
-  src="https://static.zentala.io/flat/8.jpg"
+  src="https://cdn.zentala.agency/flat/8.jpg"
   alt="A small bird sitting on top of a dry grass field"
   caption="A small bird sitting on top of a dry grass field. Photo by Vincent van Zalinge"
 >}}

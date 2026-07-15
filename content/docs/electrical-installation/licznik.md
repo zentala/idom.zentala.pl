@@ -14,7 +14,7 @@ seo:
   description: Licznik - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Licznik | Dokumentacja - ihome.zentala.io
+  title: Licznik | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Licznik
 toc: true

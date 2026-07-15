@@ -13,7 +13,7 @@ seo:
   description: Projekt instalacji IoT mieszkania - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Projekt instalacji IoT mieszkania | Dokumentacja - ihome.zentala.io
+  title: Projekt instalacji IoT mieszkania | Dokumentacja - idom.zentala.pl
 summary: Jak i gdzie rozplanować te wszystkie czujniki i kable?
 tags: []
 title: Projekt instalacji IoT mieszkania

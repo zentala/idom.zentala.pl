@@ -14,7 +14,7 @@ seo:
   description: Bram, drzwi graży - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Bram, drzwi graży | Dokumentacja - ihome.zentala.io
+  title: Bram, drzwi graży | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Bram, drzwi graży
 toc: true

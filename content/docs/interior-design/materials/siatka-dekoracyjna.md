@@ -14,7 +14,7 @@ seo:
   description: siatka dekoracyjna - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: siatka dekoracyjna | Dokumentacja - ihome.zentala.io
+  title: siatka dekoracyjna | Dokumentacja - idom.zentala.pl
 summary: ''
 title: siatka dekoracyjna
 toc: true

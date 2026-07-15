@@ -14,7 +14,7 @@ seo:
   description: IoT (Internet of Things) - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: IoT (Internet of Things) | Dokumentacja - ihome.zentala.io
+  title: IoT (Internet of Things) | Dokumentacja - idom.zentala.pl
 summary: ''
 title: IoT (Internet of Things)
 toc: true

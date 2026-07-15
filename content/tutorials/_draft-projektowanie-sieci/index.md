@@ -13,7 +13,7 @@ seo:
   description: Projekt sieci Ethernet i WiFi - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Projekt sieci Ethernet i WiFi | Dokumentacja - ihome.zentala.io
+  title: Projekt sieci Ethernet i WiFi | Dokumentacja - idom.zentala.pl
 summary: Jak rozplanować sieć w swoim domu lub mieszkaniu?
 tags: []
 title: Projekt sieci Ethernet i WiFi

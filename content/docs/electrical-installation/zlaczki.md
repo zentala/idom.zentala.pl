@@ -14,7 +14,7 @@ seo:
   description: Złączki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Złączki | Dokumentacja - ihome.zentala.io
+  title: Złączki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Złączki
 toc: true

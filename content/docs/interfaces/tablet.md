@@ -14,7 +14,7 @@ seo:
   description: Tablet - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Tablet | Dokumentacja - ihome.zentala.io
+  title: Tablet | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Tablet
 toc: true

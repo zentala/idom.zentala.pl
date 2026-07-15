@@ -14,7 +14,7 @@ seo:
   description: Taśmy LEDs - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Taśmy LEDs | Dokumentacja - ihome.zentala.io
+  title: Taśmy LEDs | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Taśmy LEDs
 toc: true

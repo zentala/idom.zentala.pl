@@ -14,7 +14,7 @@ seo:
   description: Oświetlenia DMX - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Oświetlenia DMX | Dokumentacja - ihome.zentala.io
+  title: Oświetlenia DMX | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Oświetlenia DMX
 toc: true

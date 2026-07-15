@@ -14,7 +14,7 @@ seo:
   canonical: ''
   description: OpenHAB - otwartoźródłowa platforma automatyki domowej. Pełna kontrola, prywatność i elastyczność dla Twojego smart home.
   noindex: false
-  title: OpenHAB | Dokumentacja - ihome.zentala.io
+  title: OpenHAB | Dokumentacja - idom.zentala.pl
 summary: 'Otwartoźródłowa platforma automatyki domowej z pełną kontrolą i elastycznością. Integruje setki urządzeń i protokołów w jeden system.'
 title: OpenHAB
 toc: true

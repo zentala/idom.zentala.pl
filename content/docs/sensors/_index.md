@@ -14,7 +14,7 @@ seo:
   description: Sensory - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Sensory | Dokumentacja - ihome.zentala.io
+  title: Sensory | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sensory
 toc: true

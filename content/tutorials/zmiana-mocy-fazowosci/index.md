@@ -12,10 +12,10 @@ seo:
   description: Modernizaca przylacza i instalacji elektrycznej - wazniejsze niz smart
     home - kompleksowy opis Więcej informacji na inteligentny dom znajdziesz w naszym...
   noindex: false
-  title: Modernizaca przylacza i instalacji elektrycznej... | Dokumentacja - ihome.zentala.io
+  title: Modernizaca przylacza i instalacji elektrycznej... | Dokumentacja - idom.zentala.pl
 summary: ''
 tags: []
-thumb: http://static.zentala.io/flat/moc-fazowosc.jpg
+thumb: http://cdn.zentala.agency/flat/moc-fazowosc.jpg
 title: Modernizaca przylacza i instalacji elektrycznej - wazniejsze niz smart home
 weight: 50
 ---

@@ -14,7 +14,7 @@ seo:
   description: Pomiary miernikiem - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Pomiary miernikiem | Dokumentacja - ihome.zentala.io
+  title: Pomiary miernikiem | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Pomiary miernikiem
 toc: true

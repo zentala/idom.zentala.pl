@@ -14,7 +14,7 @@ seo:
   description: Żarówki energooszczedne - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Żarówki energooszczedne | Dokumentacja - ihome.zentala.io
+  title: Żarówki energooszczedne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Żarówki energooszczedne
 toc: true

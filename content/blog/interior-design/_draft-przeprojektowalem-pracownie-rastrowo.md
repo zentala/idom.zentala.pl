@@ -14,7 +14,7 @@ seo:
   description: przeprojektowalem pracownie - kompleksowy opis Więcej informacji na
     smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: przeprojektowalem pracownie | Dokumentacja - ihome.zentala.io
+  title: przeprojektowalem pracownie | Dokumentacja - idom.zentala.pl
 summary: zaaplikowalem pomysly na konstrukcje rastrowe aby poprawic projekt pracowni
   od projektantki
 tags:

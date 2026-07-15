@@ -14,7 +14,7 @@ seo:
   description: Przyciski - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Przyciski | Dokumentacja - ihome.zentala.io
+  title: Przyciski | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Przyciski
 toc: true

@@ -16,11 +16,11 @@ seo:
   description: IoT kablem czy bez kabla? (jakie błędy dopowadziły mnie do 3 lat pustostanu)
     - kompleksowy opis Więcej informacji na smart home znajdziesz w naszym serw...
   noindex: false
-  title: IoT kablem czy bez kabla? (jakie błędy dopowadz... | Dokumentacja - ihome.zentala.io
+  title: IoT kablem czy bez kabla? (jakie błędy dopowadz... | Dokumentacja - idom.zentala.pl
 summary: Ile koszotwało mnie poprowadzenie przewodów pod czujniki w remontowanym mieszkaniu
   i dlaczego warto poważnie rozważyć bezprzewodowy lub hybrydowy Smart Home?
 tags: []
-thumb: https://static.zentala.io/flat/kable3.jpg
+thumb: https://cdn.zentala.agency/flat/kable3.jpg
 title: IoT kablem czy bez kabla? (jakie błędy dopowadziły mnie do 3 lat pustostanu)
 url: iot-kablem-czy-bez-kabla
 weight: 50

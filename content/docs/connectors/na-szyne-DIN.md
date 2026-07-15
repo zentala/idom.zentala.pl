@@ -14,7 +14,7 @@ seo:
   description: Patchpanele - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Patchpanele | Dokumentacja - ihome.zentala.io
+  title: Patchpanele | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Patchpanele
 toc: true

@@ -13,7 +13,7 @@ seo:
   description: Recenzja pracy architekta wnętrz - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Recenzja pracy architekta wnętrz | Dokumentacja - ihome.zentala.io
+  title: Recenzja pracy architekta wnętrz | Dokumentacja - idom.zentala.pl
 summary: Moja opinia na temat pracy architekta wnętrz i polskiego rynku projektowania
   wnętrz
 tags: []

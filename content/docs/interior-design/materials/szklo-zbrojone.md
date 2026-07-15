@@ -14,7 +14,7 @@ seo:
   description: Szklo zbrojone - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Szklo zbrojone | Dokumentacja - ihome.zentala.io
+  title: Szklo zbrojone | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Szklo zbrojone
 toc: true

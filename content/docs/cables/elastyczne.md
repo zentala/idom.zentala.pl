@@ -14,7 +14,7 @@ seo:
   description: Elastyczne - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Elastyczne | Dokumentacja - ihome.zentala.io
+  title: Elastyczne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Elastyczne
 toc: true

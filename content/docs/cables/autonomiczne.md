@@ -14,7 +14,7 @@ seo:
   description: Autonomiczne - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Autonomiczne | Dokumentacja - ihome.zentala.io
+  title: Autonomiczne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Autonomiczne
 toc: true

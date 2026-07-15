@@ -12,7 +12,7 @@ seo:
   description: Elektryka do smarthome - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Elektryka do smarthome | Dokumentacja - ihome.zentala.io
+  title: Elektryka do smarthome | Dokumentacja - idom.zentala.pl
 summary: ''
 tags: []
 thumb: ''

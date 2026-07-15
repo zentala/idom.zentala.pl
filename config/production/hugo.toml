@@ -1,3 +1,3 @@
 # Overrides for production environment
-baseurl = "https://ihome.zentala.io/"
+baseurl = "https://idom.zentala.pl/"
 canonifyURLs = true

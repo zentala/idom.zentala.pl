@@ -1,0 +1,19 @@
+name = "idom-zentala-pl"
+compatibility_date = "2026-07-01"
+account_id = "84c3ee9acdac8503a8bbcfd0edb39877"
+
+# NOTE: `routes` must stay ABOVE the [assets] table header — in TOML every key
+# after a table header belongs to that table, so placing it below silently makes
+# it `assets.routes`, and wrangler then deploys without attaching the domain.
+#
+# custom_domain (not a zone route): zentala.pl has a `*.zentala.pl` wildcard A
+# record plus a redirect rule sending everything to zentala.agency/blog — only a
+# specific DNS record beats that wildcard.
+routes = [
+  { pattern = "idom.zentala.pl", custom_domain = true }
+]
+
+# Static-assets-only Worker (no `main`): Cloudflare serves Hugo's ./public.
+[assets]
+directory = "./public"
+not_found_handling = "404-page"

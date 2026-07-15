@@ -16,7 +16,7 @@ seo:
   description: MCB - Zabezpiecznie Nadprądowe - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: MCB - Zabezpiecznie Nadprądowe | Dokumentacja - ihome.zentala.io
+  title: MCB - Zabezpiecznie Nadprądowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: MCB - Zabezpiecznie Nadprądowe
 toc: true

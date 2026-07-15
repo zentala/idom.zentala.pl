@@ -14,7 +14,7 @@ seo:
   description: Interfejsy - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Interfejsy | Dokumentacja - ihome.zentala.io
+  title: Interfejsy | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Interfejsy
 toc: true

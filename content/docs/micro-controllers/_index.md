@@ -14,7 +14,7 @@ seo:
   description: MicroControllers - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: MicroControllers | Dokumentacja - ihome.zentala.io
+  title: MicroControllers | Dokumentacja - idom.zentala.pl
 summary: ''
 title: MicroControllers
 toc: true

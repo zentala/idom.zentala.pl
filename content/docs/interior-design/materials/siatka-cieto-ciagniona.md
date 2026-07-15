@@ -14,7 +14,7 @@ seo:
   description: Biometryczne - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Biometryczne | Dokumentacja - ihome.zentala.io
+  title: Biometryczne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Biometryczne
 toc: true

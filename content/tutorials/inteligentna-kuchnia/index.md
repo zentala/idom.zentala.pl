@@ -13,7 +13,7 @@ seo:
   description: Inteligentna kuchnia - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Inteligentna kuchnia | Dokumentacja - ihome.zentala.io
+  title: Inteligentna kuchnia | Dokumentacja - idom.zentala.pl
 summary: Niezbędne i przydatne funkcjonalności inteligentnej kuchni.
 tags: []
 title: Inteligentna kuchnia

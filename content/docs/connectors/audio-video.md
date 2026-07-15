@@ -14,7 +14,7 @@ seo:
   description: Audio-Video - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Audio-Video | Dokumentacja - ihome.zentala.io
+  title: Audio-Video | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Audio-Video
 toc: true

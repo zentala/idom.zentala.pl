@@ -13,7 +13,7 @@ seo:
   description: Projektowanie rodzielnicy - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Projektowanie rodzielnicy | Dokumentacja - ihome.zentala.io
+  title: Projektowanie rodzielnicy | Dokumentacja - idom.zentala.pl
 summary: Jak rozplanować rozdzielnicę?
 tags: []
 title: Projektowanie rodzielnicy

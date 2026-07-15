@@ -14,7 +14,7 @@ seo:
   description: Scianki drzialowe - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Scianki drzialowe | Dokumentacja - ihome.zentala.io
+  title: Scianki drzialowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Scianki drzialowe
 toc: true

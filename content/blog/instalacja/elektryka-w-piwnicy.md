@@ -13,7 +13,7 @@ seo:
   description: Elektryka w komórce lokatorskiej - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Elektryka w komórce lokatorskiej | Dokumentacja - ihome.zentala.io
+  title: Elektryka w komórce lokatorskiej | Dokumentacja - idom.zentala.pl
 summary: Jak podlaczylem prąd do komórki lokatorskiej, jaką zaprojektowałem w niej
   elektrykę i jakie umieściłem sensory.
 tags: []

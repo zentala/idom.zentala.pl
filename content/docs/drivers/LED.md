@@ -14,7 +14,7 @@ seo:
   description: Taśm LED - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Taśm LED | Dokumentacja - ihome.zentala.io
+  title: Taśm LED | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Taśm LED
 toc: true

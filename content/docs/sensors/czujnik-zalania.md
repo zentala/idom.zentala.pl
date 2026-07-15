@@ -14,7 +14,7 @@ seo:
   description: Czujnik Zalania - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujnik Zalania | Dokumentacja - ihome.zentala.io
+  title: Czujnik Zalania | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Zalania
 toc: true

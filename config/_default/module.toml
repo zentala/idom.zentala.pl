@@ -83,6 +83,15 @@
   source = "node_modules/@hyas/doks-core/static"
   target = "static"
 
+# KaTeX ships CSS that references ./fonts/* by relative path, so mount the whole
+# dist as static: css, js and fonts stay together under /katex/ and the paths
+# resolve without rewriting. Math is rendered in the browser — the theme's own
+# shortcodes fetched images from math.vercel.app at build time, which made the
+# build depend on a third-party API that now hard-fails with HTTP 429.
+[[mounts]]
+  source = "node_modules/katex/dist"
+  target = "static/katex"
+
 [[mounts]]
   source = "static"
   target = "static"

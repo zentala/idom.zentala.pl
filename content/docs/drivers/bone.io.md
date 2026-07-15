@@ -14,7 +14,7 @@ seo:
   description: Bone.io - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Bone.io | Dokumentacja - ihome.zentala.io
+  title: Bone.io | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Bone.io
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Przekazniki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Przekazniki | Dokumentacja - ihome.zentala.io
+  title: Przekazniki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Przekazniki
 toc: true

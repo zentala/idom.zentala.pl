@@ -13,7 +13,7 @@ seo:
   description: Inteligentne AirBnb - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Inteligentne AirBnb | Dokumentacja - ihome.zentala.io
+  title: Inteligentne AirBnb | Dokumentacja - idom.zentala.pl
 summary: Zaprojektuj Smart Home dla lokalu na wynajem krótkoterminowy.
 tags: []
 title: Inteligentne AirBnb

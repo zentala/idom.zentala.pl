@@ -14,7 +14,7 @@ seo:
   description: Przewody - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Przewody | Dokumentacja - ihome.zentala.io
+  title: Przewody | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Przewody
 toc: true

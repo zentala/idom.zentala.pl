@@ -14,7 +14,7 @@ seo:
   description: Tablice perforowane - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Tablice perforowane | Dokumentacja - ihome.zentala.io
+  title: Tablice perforowane | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Tablice perforowane
 toc: true

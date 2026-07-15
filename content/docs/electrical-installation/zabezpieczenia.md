@@ -14,7 +14,7 @@ seo:
   description: Zabezpieczenia - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zabezpieczenia | Dokumentacja - ihome.zentala.io
+  title: Zabezpieczenia | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zabezpieczenia
 toc: true

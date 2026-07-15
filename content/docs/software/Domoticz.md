@@ -14,7 +14,7 @@ seo:
   canonical: ''
   description: Domoticz - lekka platforma automatyki domowej w C++. Wydajna, działa na starszym sprzęcie, z polską społecznością.
   noindex: false
-  title: Domoticz | Dokumentacja - ihome.zentala.io
+  title: Domoticz | Dokumentacja - idom.zentala.pl
 summary: 'Lekka i wydajna platforma automatyki domowej napisana w C++. Idealna dla starszego sprzętu, z prostym GUI i dobrą integracją ze sprzętem DIY.'
 title: Domoticz
 toc: true

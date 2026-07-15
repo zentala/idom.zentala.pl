@@ -14,7 +14,7 @@ seo:
   description: Głośnikowe - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Głośnikowe | Dokumentacja - ihome.zentala.io
+  title: Głośnikowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Głośnikowe
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: RFID - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: RFID | Dokumentacja - ihome.zentala.io
+  title: RFID | Dokumentacja - idom.zentala.pl
 summary: ''
 title: RFID
 toc: true

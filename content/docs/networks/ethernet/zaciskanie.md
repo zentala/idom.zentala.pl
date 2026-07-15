@@ -14,7 +14,7 @@ seo:
   description: Zaciskanie - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zaciskanie | Dokumentacja - ihome.zentala.io
+  title: Zaciskanie | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zaciskanie
 toc: true

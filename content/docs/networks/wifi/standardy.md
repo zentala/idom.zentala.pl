@@ -14,7 +14,7 @@ seo:
   description: Standardy - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Standardy | Dokumentacja - ihome.zentala.io
+  title: Standardy | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Standardy
 toc: true

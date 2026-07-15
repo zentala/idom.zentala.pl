@@ -14,7 +14,7 @@ seo:
   description: Polscy projektanci nie umieją projektować nowoczesnych wnętrz - kompleksowy
     opis Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Polscy projektanci nie umieją projektować nowoc... | Dokumentacja - ihome.zentala.io
+  title: Polscy projektanci nie umieją projektować nowoc... | Dokumentacja - idom.zentala.pl
 summary: 'i poslugiac sie nowoczesnymi materialami.  Zapytalem ich na grupie dla projektantow
   czy poprawia mi design aby wygladal jak centrach handlowych i na lotniskach i powiedzieli
   ze nie umieja, a Ci co umieja to kilka filrm w PL i wezma min 3x tyle co za zwykly
@@ -22,7 +22,7 @@ summary: 'i poslugiac sie nowoczesnymi materialami.  Zapytalem ich na grupie dla
   domu.  '
 tags:
 - Wnętrza i Meble
-thumb: https://static.zentala.io/flat/modern-ceiling.jpg
+thumb: https://cdn.zentala.agency/flat/modern-ceiling.jpg
 title: Polscy projektanci nie umieją projektować nowoczesnych wnętrz
 weight: 50
 ---

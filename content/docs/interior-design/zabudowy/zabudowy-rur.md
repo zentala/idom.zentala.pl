@@ -14,7 +14,7 @@ seo:
   description: Zabudwy rur - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zabudwy rur | Dokumentacja - ihome.zentala.io
+  title: Zabudwy rur | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zabudwy rur
 toc: true

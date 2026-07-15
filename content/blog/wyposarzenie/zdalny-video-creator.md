@@ -14,13 +14,13 @@ seo:
   description: Na zdalnym wszyscy jesteśmy 'video creatorami' - kompleksowy opis Więcej
     informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Na zdalnym wszyscy jesteśmy 'video creatorami | Dokumentacja - ihome.zentala.io
+  title: Na zdalnym wszyscy jesteśmy 'video creatorami | Dokumentacja - idom.zentala.pl
 summary: Robimy 'lajwy' podczas rozmowy o pracę i podczas wewnętrznych prezentacji.
   Od jakości dźwięku zależy na ile przyjemnie będzie się nas słuchało, zaś od jakości
   obrazu i naszego tła zależy na ile profesjonalnie będziemy wyglądali. Dzielę się
   swoimi tipami jak wyglądać PRO na video.
 tags: []
-thumb: https://static.zentala.io/remote-videos/workspace.jpg
+thumb: https://cdn.zentala.agency/remote-videos/workspace.jpg
 title: Na zdalnym wszyscy jesteśmy 'video creatorami'
 weight: 50
 ---

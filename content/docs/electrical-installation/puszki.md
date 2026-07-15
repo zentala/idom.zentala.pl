@@ -14,7 +14,7 @@ seo:
   description: Puszki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Puszki | Dokumentacja - ihome.zentala.io
+  title: Puszki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Puszki
 toc: true

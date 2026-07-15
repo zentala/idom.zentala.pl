@@ -13,7 +13,7 @@ seo:
   description: RCD - zabezpiecznie różnicowo-prądowe (przeciwporażeniowe) - kompleksowy
     opis Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: RCD - zabezpiecznie różnicowo-prądowe (przeciwp... | Dokumentacja - ihome.zentala.io
+  title: RCD - zabezpiecznie różnicowo-prądowe (przeciwp... | Dokumentacja - idom.zentala.pl
 summary: ''
 title: RCD - zabezpiecznie różnicowo-prądowe (przeciwporażeniowe)
 toc: true

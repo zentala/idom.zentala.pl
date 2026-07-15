@@ -14,7 +14,7 @@ seo:
   description: Zawory gazu - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zawory gazu | Dokumentacja - ihome.zentala.io
+  title: Zawory gazu | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zawory gazu
 toc: true

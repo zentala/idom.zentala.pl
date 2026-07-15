@@ -14,11 +14,11 @@ seo:
   description: Infograficzne etykiety na szufladki z elektroniką - kompleksowy opis
     Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Infograficzne etykiety na szufladki z elektroniką | Dokumentacja - ihome.zentala.io
+  title: Infograficzne etykiety na szufladki z elektroniką | Dokumentacja - idom.zentala.pl
 summary: Jak oznaczyłem 56+ szufladek z komponentami elektronicznymi, aby się nie
   pogubić co jest gdzie
 tags: []
-thumb: https://static.zentala.io/framed/framed_icon.jpg
+thumb: https://cdn.zentala.agency/framed/framed_icon.jpg
 title: Infograficzne etykiety na szufladki z elektroniką
 weight: 50
 ---
@@ -40,7 +40,7 @@ so I decided to use my design skills to solve both of them:
 <film video>
 
 ## Finall effect
-![View](https://static.zentala.io/framed/context.jpg)
+![View](https://cdn.zentala.agency/framed/context.jpg)
 
 
 {{< gallery id="framed-labels-examples" sourceFile="framed-icons-photos-gallery" >}}

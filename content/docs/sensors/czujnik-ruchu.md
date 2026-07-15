@@ -14,7 +14,7 @@ seo:
   description: Czujnik Ruchu - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Czujnik Ruchu | Dokumentacja - ihome.zentala.io
+  title: Czujnik Ruchu | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Ruchu
 toc: true

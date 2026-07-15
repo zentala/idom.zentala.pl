@@ -14,7 +14,7 @@ seo:
   description: Rozdzielnica i szyna DIN - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Rozdzielnica i szyna DIN | Dokumentacja - ihome.zentala.io
+  title: Rozdzielnica i szyna DIN | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Rozdzielnica i szyna DIN
 toc: true

@@ -57,10 +57,8 @@ References:
 {{- $inner := trim .Inner "\n\r" }}
 {{- $name := .Name }}
 {{- $ordinal := .Ordinal }}
-{{- $position := .Position }}
 
 {{- /* Initialize. */}}
-{{- $apiEndpoint := "https://math.vercel.app/" }}
 {{- $color := .Get "color" | default "" }}
 
 {{- /* Determine display mode. */}}
@@ -93,26 +91,21 @@ References:
 {{- /* Define attributes map. */}}
 {{- $attrs := dict "class" $class "id" $id }}
 
-{{- /* Create query string. */}}
-{{- $mode := "inline" }}
+{{- /* Apply optional color. */}}
+{{- with $color }}
+  {{- $inner = printf `{\color{%s} %s}` . $inner }}
+{{- end }}
+
+{{- /* Wrap in KaTeX auto-render delimiters. */}}
+{{- $expr := printf `\(%s\)` $inner }}
 {{- if $displayMode }}
-  {{- $mode = "from" }}
-{{- end }}
-{{- $qs := querify $mode $inner "color" $color }}
-
-{{- /* Get image. */}}
-{{- $url := printf "%s?%s" $apiEndpoint $qs }}
-{{- with resources.GetRemote $url }}
-  {{- with .Err }}
-    {{- errorf "The %q shortcode was unable to get the remote image. See %s. %s" $name $position . }}
-  {{- else }}
-    {{- $url = .RelPermalink }}
-  {{- end }}
-{{- else }}
-  {{- errorf "The %q shortcode was unable to get the remote image. See %s" $name $position }}
+  {{- $expr = printf `\[%s\]` $inner }}
 {{- end }}
 
-{{- /* Render. */}}
+{{- /* Render. The LaTeX is emitted as escaped text and typeset in the browser by
+       KaTeX (see partials/head/custom-head.html). Hugo's default escaping is
+       intentional: KaTeX auto-render reads textContent, so `<` survives as `&lt;`
+       and round-trips correctly, without letting content inject markup. */}}
 <span
 {{- range $k, $v := $attrs }}
   {{- if not (eq $k "color") }}
@@ -121,7 +114,5 @@ References:
     {{- end }}
   {{- end }}
 {{- end -}}
->
-  <img src="{{ $url }}" alt="mathematical expression or equation">
-</span>
+>{{ $expr }}</span>
 {{- /**/ -}}

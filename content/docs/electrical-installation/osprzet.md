@@ -14,7 +14,7 @@ seo:
   description: Osprzet - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Osprzet | Dokumentacja - ihome.zentala.io
+  title: Osprzet | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Osprzet
 toc: true

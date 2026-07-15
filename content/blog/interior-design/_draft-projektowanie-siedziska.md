@@ -14,7 +14,7 @@ seo:
   description: Projektowanie siedziska w oknie - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Projektowanie siedziska w oknie | Dokumentacja - ihome.zentala.io
+  title: Projektowanie siedziska w oknie | Dokumentacja - idom.zentala.pl
 summary: ''
 tags: []
 title: Projektowanie siedziska w oknie

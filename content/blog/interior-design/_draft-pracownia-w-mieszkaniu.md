@@ -13,7 +13,7 @@ seo:
   description: Pracownia w mieszkaniu - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Pracownia w mieszkaniu | Dokumentacja - ihome.zentala.io
+  title: Pracownia w mieszkaniu | Dokumentacja - idom.zentala.pl
 summary: Jest malo inspiracji jak zorganizowac miejsce do pracy w mieszkaniu, dlatego
   jesli planujesz pracowac zdalnie albo lubisz DIY to zaprszam
 tags: []

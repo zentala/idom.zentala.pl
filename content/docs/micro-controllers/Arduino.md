@@ -14,7 +14,7 @@ seo:
   description: Arduino - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Arduino | Dokumentacja - ihome.zentala.io
+  title: Arduino | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Arduino
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: '[RTLS] Lokalizacja - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.'
   noindex: false
-  title: '[RTLS] Lokalizacja | Dokumentacja - ihome.zentala.io'
+  title: '[RTLS] Lokalizacja | Dokumentacja - idom.zentala.pl'
 summary: ''
 title: '[RTLS] Lokalizacja'
 toc: true

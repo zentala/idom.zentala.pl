@@ -14,7 +14,7 @@ seo:
   description: Halogeny - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Halogeny | Dokumentacja - ihome.zentala.io
+  title: Halogeny | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Halogeny
 toc: true

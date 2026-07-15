@@ -14,7 +14,7 @@ seo:
   description: ZigBee - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: ZigBee | Dokumentacja - ihome.zentala.io
+  title: ZigBee | Dokumentacja - idom.zentala.pl
 summary: ''
 title: ZigBee
 toc: true

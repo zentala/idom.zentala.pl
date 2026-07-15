@@ -14,7 +14,7 @@ seo:
   description: Wlasna blacha perforowana - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Wlasna blacha perforowana | Dokumentacja - ihome.zentala.io
+  title: Wlasna blacha perforowana | Dokumentacja - idom.zentala.pl
 summary: ''
 tags: []
 title: Wlasna blacha perforowana

@@ -14,7 +14,7 @@ seo:
   description: Szybkozłączki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Szybkozłączki | Dokumentacja - ihome.zentala.io
+  title: Szybkozłączki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Szybkozłączki
 toc: true

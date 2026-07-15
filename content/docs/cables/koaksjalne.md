@@ -14,7 +14,7 @@ seo:
   description: Koaksjalne - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Koaksjalne | Dokumentacja - ihome.zentala.io
+  title: Koaksjalne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Koaksjalne
 toc: true

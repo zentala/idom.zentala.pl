@@ -13,7 +13,7 @@ seo:
   description: Okablowanie dla sensorów - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Okablowanie dla sensorów | Dokumentacja - ihome.zentala.io
+  title: Okablowanie dla sensorów | Dokumentacja - idom.zentala.pl
 summary: Budowa infrasturuktury niskonapięciowej 12-24V dla czujników.
 tags: []
 title: Okablowanie dla sensorów

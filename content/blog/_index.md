@@ -13,7 +13,7 @@ seo:
   description: Blog - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Blog | Dokumentacja - ihome.zentala.io
+  title: Blog | Dokumentacja - idom.zentala.pl
 summary: 'Historia projektowania i budowy mojego własnego inteligentnego mieszkania.
   Moje przemyślenia, pomysły, decyzje, doświadczenia i wnioski. '
 tags: []

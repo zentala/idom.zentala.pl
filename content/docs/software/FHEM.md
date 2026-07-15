@@ -14,7 +14,7 @@ seo:
   canonical: ''
   description: FHEM - jedna z pierwszych platform automatyki domowej w Perlu. Opis historyczny i dlaczego obecnie lepiej wybrać nowsze rozwiązania.
   noindex: false
-  title: FHEM | Dokumentacja - ihome.zentala.io
+  title: FHEM | Dokumentacja - idom.zentala.pl
 summary: 'Historyczna platforma automatyki domowej napisana w Perlu. Jedna z pierwszych open-source systemów smart home, obecnie wyparta przez nowocześniejsze rozwiązania.'
 title: FHEM
 toc: true

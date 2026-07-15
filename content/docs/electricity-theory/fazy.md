@@ -14,7 +14,7 @@ seo:
   description: Prąd jedno- i trójfazowy - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Prąd jedno- i trójfazowy | Dokumentacja - ihome.zentala.io
+  title: Prąd jedno- i trójfazowy | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Prąd jedno- i trójfazowy
 toc: true

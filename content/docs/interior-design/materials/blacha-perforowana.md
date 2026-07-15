@@ -14,7 +14,7 @@ seo:
   description: Blacha Perforowana - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Blacha Perforowana | Dokumentacja - ihome.zentala.io
+  title: Blacha Perforowana | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Blacha Perforowana
 toc: true

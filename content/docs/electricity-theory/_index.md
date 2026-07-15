@@ -14,7 +14,7 @@ seo:
   description: Teoria Elektryczna - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Teoria Elektryczna | Dokumentacja - ihome.zentala.io
+  title: Teoria Elektryczna | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Teoria Elektryczna
 toc: true

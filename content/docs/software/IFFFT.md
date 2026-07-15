@@ -14,7 +14,7 @@ seo:
   description: IFFFT - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: IFFFT | Dokumentacja - ihome.zentala.io
+  title: IFFFT | Dokumentacja - idom.zentala.pl
 summary: ''
 title: IFFFT
 toc: true

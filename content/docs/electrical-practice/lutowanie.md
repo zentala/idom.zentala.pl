@@ -14,7 +14,7 @@ seo:
   description: Lutowanie - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Lutowanie | Dokumentacja - ihome.zentala.io
+  title: Lutowanie | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Lutowanie
 toc: true

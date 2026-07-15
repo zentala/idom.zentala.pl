@@ -14,7 +14,7 @@ seo:
   description: USB - kompleksowy opis Więcej informacji na smart home znajdziesz w
     naszym serwisie.
   noindex: false
-  title: USB | Dokumentacja - ihome.zentala.io
+  title: USB | Dokumentacja - idom.zentala.pl
 summary: ''
 title: USB
 toc: true

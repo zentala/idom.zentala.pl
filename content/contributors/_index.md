@@ -9,7 +9,7 @@ seo:
   description: Contributors - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Contributors | Dokumentacja - ihome.zentala.io
+  title: Contributors | Dokumentacja - idom.zentala.pl
 summary: Meet this website contributors.
 title: Contributors
 ---

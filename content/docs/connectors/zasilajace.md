@@ -14,7 +14,7 @@ seo:
   description: Zasilające - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zasilające | Dokumentacja - ihome.zentala.io
+  title: Zasilające | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zasilające
 toc: true

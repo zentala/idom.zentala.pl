@@ -14,7 +14,7 @@ seo:
   description: Zapotrzebowanie na moc urządzeń - kompleksowy opis Więcej informacji
     na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Zapotrzebowanie na moc urządzeń | Dokumentacja - ihome.zentala.io
+  title: Zapotrzebowanie na moc urządzeń | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zapotrzebowanie na moc urządzeń
 toc: true

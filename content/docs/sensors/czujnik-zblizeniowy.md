@@ -14,7 +14,7 @@ seo:
   description: Czujnik Zbliżeniowy - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujnik Zbliżeniowy | Dokumentacja - ihome.zentala.io
+  title: Czujnik Zbliżeniowy | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Zbliżeniowy
 toc: true

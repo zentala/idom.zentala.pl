@@ -14,7 +14,7 @@ seo:
   description: Encyklopedia - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Encyklopedia | Dokumentacja - ihome.zentala.io
+  title: Encyklopedia | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Encyklopedia
 toc: true

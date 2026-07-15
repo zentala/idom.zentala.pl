@@ -14,7 +14,7 @@ seo:
   description: Elektrozamki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Elektrozamki | Dokumentacja - ihome.zentala.io
+  title: Elektrozamki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Elektrozamki
 toc: true

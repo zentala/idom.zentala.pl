@@ -14,7 +14,7 @@ seo:
   description: Rozdzielnica - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Rozdzielnica | Dokumentacja - ihome.zentala.io
+  title: Rozdzielnica | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Rozdzielnica
 toc: true

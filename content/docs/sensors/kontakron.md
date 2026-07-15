@@ -14,7 +14,7 @@ seo:
   description: Kontaktron - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Kontaktron | Dokumentacja - ihome.zentala.io
+  title: Kontaktron | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Kontaktron
 toc: true

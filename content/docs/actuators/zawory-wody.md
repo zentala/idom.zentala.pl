@@ -14,7 +14,7 @@ seo:
   description: Zawory wody - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zawory wody | Dokumentacja - ihome.zentala.io
+  title: Zawory wody | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zawory wody
 toc: true

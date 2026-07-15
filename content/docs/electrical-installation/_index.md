@@ -14,7 +14,7 @@ seo:
   description: Instalacja Elektryczna - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Instalacja Elektryczna | Dokumentacja - ihome.zentala.io
+  title: Instalacja Elektryczna | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Instalacja Elektryczna
 toc: true

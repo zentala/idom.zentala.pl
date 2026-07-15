@@ -14,7 +14,7 @@ seo:
   description: Telekomunikacyjne - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Telekomunikacyjne | Dokumentacja - ihome.zentala.io
+  title: Telekomunikacyjne | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Telekomunikacyjne
 toc: true

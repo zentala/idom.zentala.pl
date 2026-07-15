@@ -14,7 +14,7 @@ seo:
   description: Żarówki LED - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Żarówki LED | Dokumentacja - ihome.zentala.io
+  title: Żarówki LED | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Żarówki LED
 toc: true

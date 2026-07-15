@@ -14,7 +14,7 @@ seo:
   description: ESP32 - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: ESP32 | Dokumentacja - ihome.zentala.io
+  title: ESP32 | Dokumentacja - idom.zentala.pl
 summary: ''
 title: ESP32
 toc: true

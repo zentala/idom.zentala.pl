@@ -14,7 +14,7 @@ seo:
   description: Drewno - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Drewno | Dokumentacja - ihome.zentala.io
+  title: Drewno | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Drewno
 toc: true

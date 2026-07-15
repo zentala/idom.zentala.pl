@@ -14,7 +14,7 @@ seo:
   description: Szklo ornamentowe - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Szklo ornamentowe | Dokumentacja - ihome.zentala.io
+  title: Szklo ornamentowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Szklo ornamentowe
 toc: true

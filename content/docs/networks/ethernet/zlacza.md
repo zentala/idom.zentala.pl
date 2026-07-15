@@ -14,7 +14,7 @@ seo:
   description: Zlacza - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Zlacza | Dokumentacja - ihome.zentala.io
+  title: Zlacza | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Zlacza
 toc: true

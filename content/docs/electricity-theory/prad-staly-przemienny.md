@@ -14,7 +14,7 @@ seo:
   description: Prąd stały i przemienny - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Prąd stały i przemienny | Dokumentacja - ihome.zentala.io
+  title: Prąd stały i przemienny | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Prąd stały i przemienny
 toc: true

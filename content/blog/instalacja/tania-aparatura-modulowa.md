@@ -13,7 +13,7 @@ seo:
   description: Kupiłem używaną aparaturę modułowa (RCBOs) Siemensa - kompleksowy opis
     Więcej informacji na smart home znajdziesz w naszym serwisie.
   noindex: false
-  title: Kupiłem używaną aparaturę modułowa (RCBOs) Siem... | Dokumentacja - ihome.zentala.io
+  title: Kupiłem używaną aparaturę modułowa (RCBOs) Siem... | Dokumentacja - idom.zentala.pl
 summary: Zaoszczędziłem 70%. Było warto? Dlaczego zdecydowałem się na drogie zabezpieczenia
   różnicowo-prądowe z członem nadprądowym (po 200-300zł) i dlaczego kupiłem używane
   - znacznie tańsze (60-70zł) -  zamiast nowych?

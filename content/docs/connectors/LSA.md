@@ -14,7 +14,7 @@ seo:
   description: LSA - kompleksowy opis Więcej informacji na smart home znajdziesz w
     naszym serwisie.
   noindex: false
-  title: LSA | Dokumentacja - ihome.zentala.io
+  title: LSA | Dokumentacja - idom.zentala.pl
 summary: ''
 title: LSA
 toc: true

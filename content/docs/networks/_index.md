@@ -14,7 +14,7 @@ seo:
   description: Sieci - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Sieci | Dokumentacja - ihome.zentala.io
+  title: Sieci | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sieci
 toc: true

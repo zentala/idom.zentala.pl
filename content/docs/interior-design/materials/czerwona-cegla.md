@@ -14,7 +14,7 @@ seo:
   description: Czerwona cegla - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Czerwona cegla | Dokumentacja - ihome.zentala.io
+  title: Czerwona cegla | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czerwona cegla
 toc: true

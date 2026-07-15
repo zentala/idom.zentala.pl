@@ -14,7 +14,7 @@ seo:
   description: Czujnik Światła - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Czujnik Światła | Dokumentacja - ihome.zentala.io
+  title: Czujnik Światła | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Czujnik Światła
 toc: true

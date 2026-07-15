@@ -14,7 +14,7 @@ seo:
   description: Inteligentny Dom - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Inteligentny Dom | Dokumentacja - ihome.zentala.io
+  title: Inteligentny Dom | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Inteligentny Dom
 toc: true

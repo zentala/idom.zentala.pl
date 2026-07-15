@@ -14,7 +14,7 @@ seo:
   description: Switch - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Switch | Dokumentacja - ihome.zentala.io
+  title: Switch | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Switch
 toc: true

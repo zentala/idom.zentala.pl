@@ -14,7 +14,7 @@ seo:
   description: Wiatraki - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Wiatraki | Dokumentacja - ihome.zentala.io
+  title: Wiatraki | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Wiatraki
 toc: true

@@ -14,7 +14,7 @@ seo:
   description: Sciemniacze - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Sciemniacze | Dokumentacja - ihome.zentala.io
+  title: Sciemniacze | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sciemniacze
 toc: true

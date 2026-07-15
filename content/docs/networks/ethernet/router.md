@@ -14,7 +14,7 @@ seo:
   description: Router - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Router | Dokumentacja - ihome.zentala.io
+  title: Router | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Router
 toc: true

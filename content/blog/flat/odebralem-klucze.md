@@ -14,11 +14,11 @@ seo:
   description: Właśnie odebrałem klucze! - kompleksowy opis Więcej informacji na smart
     home znajdziesz w naszym serwisie.
   noindex: false
-  title: Właśnie odebrałem klucze! | Dokumentacja - ihome.zentala.io
+  title: Właśnie odebrałem klucze! | Dokumentacja - idom.zentala.pl
 summary: Zobacz na video jak prezentowało mieszkanie w dniu odbioru. Zdecydowanie
   będę je remontował.
 tags: []
-thumb: https://static.zentala.io/flat/klucze.jpg
+thumb: https://cdn.zentala.agency/flat/klucze.jpg
 title: Właśnie odebrałem klucze!
 weight: 50
 ---

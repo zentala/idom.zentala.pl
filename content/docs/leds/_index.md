@@ -14,7 +14,7 @@ seo:
   description: Oświetlenie - kompleksowy opis Więcej informacji na smart home znajdziesz
     w naszym serwisie.
   noindex: false
-  title: Oświetlenie | Dokumentacja - ihome.zentala.io
+  title: Oświetlenie | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Oświetlenie
 toc: true

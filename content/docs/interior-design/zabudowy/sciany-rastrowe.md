@@ -14,7 +14,7 @@ seo:
   description: Sciany rastrowe - kompleksowy opis Więcej informacji na smart home
     znajdziesz w naszym serwisie.
   noindex: false
-  title: Sciany rastrowe | Dokumentacja - ihome.zentala.io
+  title: Sciany rastrowe | Dokumentacja - idom.zentala.pl
 summary: ''
 title: Sciany rastrowe
 toc: true
