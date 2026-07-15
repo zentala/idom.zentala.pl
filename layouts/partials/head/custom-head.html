@@ -5,6 +5,14 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
 {{/*
+  Cloudflare Web Analytics — cookieless and no cross-site tracking, so it needs
+  no consent banner. Production only: no point counting `hugo server` hits.
+*/}}
+{{- if eq (hugo.Environment) "production" }}
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "68bc42daa4454b12a2b1d16e437a8fdf"}'></script>
+{{- end }}
+
+{{/*
   KaTeX — typesets math in the browser, loaded only on pages that actually
   contain math so the rest of the blog does not pay for it. Served from /katex/
   (mounted from node_modules in config/_default/module.toml), deliberately not
