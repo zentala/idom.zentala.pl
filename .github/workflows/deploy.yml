@@ -64,8 +64,11 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: pnpm run build -- --gc --minify
+      # Run the repo's own wrangler rather than cloudflare/wrangler-action: the
+      # action installs its own copy through the detected package manager and
+      # dies with "Cannot find module 'tslib'" under pnpm's strict node_modules.
       # account_id lives in wrangler.toml, so only the token is needed here.
       - name: Deploy to Cloudflare Workers
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: pnpm exec wrangler deploy
